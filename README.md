@@ -8,8 +8,11 @@ I'm currently pursuing my M.S. in Computer Science (Intelligent Systems) at UT D
 🛠️ Technical Skills
 
 Languages: Python, Java, C++, C, TypeScript, Swift, SQL
+
 Systems & Distributed Computing: AWS (Lambda, API Gateway), Linux/Unix (Kali Linux), Cloudflare, Snowflake
+
 AI/ML: TensorFlow, PyTorch, Llama, Google Vision API, Gemini, Microsoft Copilot Studio, Power Automate
+
 Web Development: React, Node.js, HTML, CSS, JavaScript, MongoDB, MySQL, JSON, REST APIs
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,typescript,swift,react,nodejs,mongodb,mysql,aws,git,figma,androidstudio,xcode&theme=dark" /> </p>
